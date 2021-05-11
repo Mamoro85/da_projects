@@ -32,3 +32,5 @@
 - произведен анализ конверсии;
 - проведено 4 A/B-теста теста;
 - даны рекомендации по результатам.
+
+https://nbviewer.jupyter.org/github/Mamoro85/da_projects/blob/main/8_e_com_2_p/816a1f51-3cb5-4d11-8417-93aa62688b70.ipynb
